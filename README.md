@@ -13,7 +13,7 @@ Step 3: Injection Types
 Step 4: Injection Techniques
 Step 5: Attack Queries
 
-Sql injection is of two types
+Sql injection is of three types
 1) In-band SQLi (Classic SQLi)
 2) Inferential SQLi and 
 3) Out-of-band SQLi.
